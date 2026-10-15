@@ -1,0 +1,11 @@
+{
+  "name": "linear-review-link",
+  "version": "0.1.0",
+  "description": "Shows the current branch's pull request above the prompt, with its failing checks, unresolved threads and linked Linear issue, and opens it on linear.review.",
+  "author": { "name": "Maciek Pekala", "url": "https://github.com/pekala" },
+  "homepage": "https://github.com/pekala/linear-review-link",
+  "repository": "https://github.com/pekala/linear-review-link",
+  "license": "MIT",
+  "keywords": ["linear", "pull-request", "github", "mod"],
+  "types": "./types/index.d.ts"
+}

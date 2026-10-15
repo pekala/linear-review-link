@@ -1,0 +1,17 @@
+{
+  "name": "linear-review-link",
+  "owner": {
+    "name": "Maciek Pekala",
+    "url": "https://github.com/pekala"
+  },
+  "metadata": {
+    "description": "Claude Code mods by Maciek Pekala: linear-review-link shows the current branch's pull request above the prompt and opens it on linear.review."
+  },
+  "plugins": [
+    {
+      "name": "linear-review-link",
+      "source": "./",
+      "description": "Shows the current branch's pull request above the prompt and opens it on linear.review."
+    }
+  ]
+}
